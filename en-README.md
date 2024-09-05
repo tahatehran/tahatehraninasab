@@ -1,6 +1,8 @@
 # Taha Tehrani Nasab
 
-👋 Hello! I'm Taha Tehrani Nasab, a passionate and creative developer in the programming world.
+![Banner](https://via.placeholder.com/1200x300?text=Taha+Tehrani+Nasab+-+Developer)
+
+👋 Hello! I'm Taha Tehrani Nasab, a passionate and creative developer in the programming world. My goal is to create software that makes life easier and more enjoyable.
 
 ## 🔧 Skills
 
@@ -24,6 +26,14 @@ Here are some of the projects I've worked on:
 - [Project One](https://github.com/username/project-one): A brief description of what this project does.
 - [Project Two](https://github.com/username/project-two): A brief description of what this project does.
 - [Project Three](https://github.com/username/project-three): A brief description of what this project does.
+
+## 📊 Activity Graph
+
+<div align="center">
+    <img src="https://via.placeholder.com/600x200?text=My+GitHub+Activity+Graph" alt="GitHub Activity" title="GitHub Activity Graph"/>
+</div>
+
+> **Note:** This graph provides an overview of my activity on GitHub. You can click on the project links to see more details.
 
 ## 🔍 Where to find me
 

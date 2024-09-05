@@ -23,15 +23,13 @@
 
 Here are some of the projects I've worked on:
 
-- [Project One](https://github.com/username/project-one): A brief description of what this project does.
-- [Project Two](https://github.com/username/project-two): A brief description of what this project does.
-- [Project Three](https://github.com/username/project-three): A brief description of what this project does.
+- [Project One](https://github.com/tahatehran/project): A brief description of what this project does.
+- [Project Two](https://github.com/tahatehran/irankhodro2): A brief description of what this project does.
+- [Project Three](https://github.com/tahatehran/bug-free-disco): A brief description of what this project does.
 
 ## 📊 Activity Graph
 
-<div align="center">
-    <img src="https://via.placeholder.com/600x200?text=My+GitHub+Activity+Graph" alt="GitHub Activity" title="GitHub Activity Graph"/>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahatehran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 > **Note:** This graph provides an overview of my activity on GitHub. You can click on the project links to see more details.
 

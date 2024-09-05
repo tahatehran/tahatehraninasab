@@ -37,20 +37,12 @@
 
 ## 🔍 جایی که می‌توانید من را پیدا کنید
 
-<div style="width:95%" align="center">
-	<a href="mailto:tahatehranin@yandex.com">
-		<img style="width:9rem;height:35px;" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email"/>
-	</a>
-	<a href="https://www.linkedin.com/in/taha-tehrani-nasab/">
-		<img style="width:9rem;height:35px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/>
-	</a>
-	<a href="https://www.instagram.com/tahatehran/">
-		<img style="width:9rem;height:35px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram"/>
-	</a>
-	<a href="https://x.com/tahatehran">
-		<img style="width:9rem;height:35px;" src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" title="X (formerly Twitter)"/>
-	</a>
-</div>
+<!-- <h3 align='center'><i>Social Media Handles</i></h3> -->
+<p float="left" align="center">
+<a href="https://www.linkedin.com/in/kshitij-srivastava-1719651aa/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codepen.io/Ks145"><img height="30" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Kshitij__10"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+
 
 ---
 

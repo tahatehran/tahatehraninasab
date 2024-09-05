@@ -20,7 +20,7 @@ Taha Tehrani Nasab
 <div style="width:95%" align="center">
 
 <a href="mailto:tahatehranin@yandex.com">
-	<img style="width:9rem;height:35px;" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white" />
+	<img style="width:9rem;height:35px;" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/taha-tehrani-nasab/">
 	<img style="width:9rem;height:35px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

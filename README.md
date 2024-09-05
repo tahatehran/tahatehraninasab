@@ -1,4 +1,4 @@
- # طه تهرانی نسب
+# طه تهرانی نسب
 
 ![Banner](https://via.placeholder.com/1200x300?text=Taha+Tehrani+Nasab+-+Developer)
 
@@ -26,6 +26,14 @@
 - [پروژه اول](https://github.com/username/project-one): توضیح مختصری درباره اینکه این پروژه چه کاری انجام می‌دهد.
 - [پروژه دوم](https://github.com/username/project-two): توضیح مختصری درباره اینکه این پروژه چه کاری انجام می‌دهد.
 - [پروژه سوم](https://github.com/username/project-three): توضیح مختصری درباره اینکه این پروژه چه کاری انجام می‌دهد.
+
+## 📊 فعالیت‌های گرافیکی
+
+<div align="center">
+    <img src="https://via.placeholder.com/600x200?text=My+GitHub+Activity+Graph" alt="GitHub Activity" title="GitHub Activity Graph"/>
+</div>
+
+> **توجه:** این گراف یک نمای کلی از فعالیت‌های من در GitHub را نشان می‌دهد. می‌توانید با کلیک بر روی لینک‌های پروژه‌ها، جزئیات بیشتری را مشاهده کنید.
 
 ## 🔍 جایی که می‌توانید من را پیدا کنید
 
